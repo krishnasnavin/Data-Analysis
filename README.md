@@ -1,8 +1,8 @@
 # Data-Analysis
 
-This project involves an in-depth analysis of the [Dataset Name] dataset to derive insights and visualize trends. The primary objective was to clean, preprocess, and analyze the data using Python's powerful data analysis libraries.
+This project involves an in-depth analysis of the dataset to derive insights and visualize trends. The primary objective was to clean, preprocess, and analyze the data using Python's powerful data analysis libraries.
 
-#Features
+# Feature
 Data Cleaning: Handling missing values, duplicates, and outliers.
 Exploratory Data Analysis (EDA): Generating descriptive statistics and visualizations.
 Insights Extraction: Identifying key patterns and trends in the data.
